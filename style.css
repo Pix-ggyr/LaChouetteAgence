@@ -677,7 +677,15 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
+}
+
+blockquote p {
+    font-size: 18px;
+}
+
+strong {
+    font-weight: 500;
 }
 
 .tight-width-whitespace {
@@ -688,6 +696,11 @@ p {
 .h1 {
     font-size: 20px;
     font-family: "Open Sans";
+}
+
+.h2 {
+    font-size: 18px;
+    font-family: "Open sans";
 }
 
 .cta-hero {
