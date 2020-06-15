@@ -788,6 +788,8 @@ ul li a {
 
 .portfolio-thumb {
   margin-bottom: 24px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .portfolio-row {
